@@ -1,5 +1,7 @@
 # Smart Expense Tracker 💰
 
+This project is made for the Advance Java Course Mini Project 
+
 A mini project developed using Advanced Java concepts such as JSP, Servlets, JDBC, and MySQL.
 
 ## 📌 Features
